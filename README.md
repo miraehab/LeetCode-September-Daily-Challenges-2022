@@ -5,3 +5,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of Septem
 ## Solutions
 
 1. <a href="https://github.com/miraehab/-LeetCode-September-Daily-Challenges-2022/blob/main/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree.cpp">Count Good Nodes in Binary Tree</a>
+2. <a href="https://github.com/miraehab/-LeetCode-September-Daily-Challenges-2022/blob/main/637.%20Average%20of%20Levels%20in%20Binary%20Tree.cpp">Average of Levels in Binary Tree</a>
