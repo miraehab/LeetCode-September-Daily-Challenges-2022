@@ -11,3 +11,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of Septem
 5. <a href="https://github.com/miraehab/-LeetCode-September-Daily-Challenges-2022/blob/main/429.%20N-ary%20Tree%20Level%20Order%20Traversal.cpp">N-ary Tree Level Order Traversal</a>
 6. <a href="https://github.com/miraehab/-LeetCode-September-Daily-Challenges-2022/blob/main/814.%20Binary%20Tree%20Pruning.cpp">Binary Tree Pruning</a>
 7. <a href="https://github.com/miraehab/-LeetCode-September-Daily-Challenges-2022/blob/main/606.%20Construct%20String%20from%20Binary%20Tree.cpp">Construct String from Binary Tree</a>
+8. <a href="https://github.com/miraehab/-LeetCode-September-Daily-Challenges-2022/blob/main/94.%20Binary%20Tree%20Inorder%20Traversal.cpp">Binary Tree Inorder Traversal</a>
