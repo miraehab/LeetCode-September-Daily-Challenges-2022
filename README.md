@@ -12,3 +12,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of Septem
 6. <a href="https://github.com/miraehab/-LeetCode-September-Daily-Challenges-2022/blob/main/814.%20Binary%20Tree%20Pruning.cpp">Binary Tree Pruning</a>
 7. <a href="https://github.com/miraehab/-LeetCode-September-Daily-Challenges-2022/blob/main/606.%20Construct%20String%20from%20Binary%20Tree.cpp">Construct String from Binary Tree</a>
 8. <a href="https://github.com/miraehab/-LeetCode-September-Daily-Challenges-2022/blob/main/94.%20Binary%20Tree%20Inorder%20Traversal.cpp">Binary Tree Inorder Traversal</a>
+9. <a href="https://github.com/miraehab/-LeetCode-September-Daily-Challenges-2022/blob/main/1996.%20The%20Number%20of%20Weak%20Characters%20in%20the%20Game.cpp">The Number of Weak Characters in the Game</a>
