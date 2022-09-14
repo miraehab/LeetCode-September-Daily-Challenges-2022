@@ -16,3 +16,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of Septem
 10. <a href="https://github.com/miraehab/-LeetCode-September-Daily-Challenges-2022/blob/main/188.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV.cpp">Best Time to Buy and Sell Stock IV</a>
 11. <a href="https://github.com/miraehab/-LeetCode-September-Daily-Challenges-2022/blob/main/1383.%20Maximum%20Performance%20of%20a%20Team.cpp">Maximum Performance of a Team</a>
 12. <a href="https://github.com/miraehab/-LeetCode-September-Daily-Challenges-2022/blob/main/948.%20Bag%20of%20Tokens.cpp">Bag of Tokens</a>
+13. <a href="https://github.com/miraehab/-LeetCode-September-Daily-Challenges-2022/blob/main/393.%20UTF-8%20Validation.cpp">UTF-8 Validation</a>
