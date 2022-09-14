@@ -14,3 +14,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of Septem
 8. <a href="https://github.com/miraehab/-LeetCode-September-Daily-Challenges-2022/blob/main/94.%20Binary%20Tree%20Inorder%20Traversal.cpp">Binary Tree Inorder Traversal</a>
 9. <a href="https://github.com/miraehab/-LeetCode-September-Daily-Challenges-2022/blob/main/1996.%20The%20Number%20of%20Weak%20Characters%20in%20the%20Game.cpp">The Number of Weak Characters in the Game</a>
 10. <a href="https://github.com/miraehab/-LeetCode-September-Daily-Challenges-2022/blob/main/188.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV.cpp">Best Time to Buy and Sell Stock IV</a>
+11. <a href="https://github.com/miraehab/-LeetCode-September-Daily-Challenges-2022/blob/main/1383.%20Maximum%20Performance%20of%20a%20Team.cpp">Maximum Performance of a Team</a>
