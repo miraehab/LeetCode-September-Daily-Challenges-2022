@@ -18,3 +18,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of Septem
 12. <a href="https://github.com/miraehab/-LeetCode-September-Daily-Challenges-2022/blob/main/948.%20Bag%20of%20Tokens.cpp">Bag of Tokens</a>
 13. <a href="https://github.com/miraehab/-LeetCode-September-Daily-Challenges-2022/blob/main/393.%20UTF-8%20Validation.cpp">UTF-8 Validation</a>
 14. <a href="https://github.com/miraehab/-LeetCode-September-Daily-Challenges-2022/blob/main/1457.%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree.cpp">Pseudo-Palindromic Paths in a Binary Tree</a>
+15. <a href="https://github.com/miraehab/-LeetCode-September-Daily-Challenges-2022/blob/main/2007.%20Find%20Original%20Array%20From%20Doubled%20Array.cpp">Find Original Array From Doubled Array</a>
