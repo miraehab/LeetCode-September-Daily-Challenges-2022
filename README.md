@@ -33,3 +33,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of Septem
 27. <a href="https://github.com/miraehab/-LeetCode-September-Daily-Challenges-2022/blob/main/838.%20Push%20Dominoes.cpp">Push Dominoes</a>
 28. <a href="https://github.com/miraehab/-LeetCode-September-Daily-Challenges-2022/blob/main/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.cpp">Remove Nth Node From End of List</a>
 29. <a href="https://github.com/miraehab/-LeetCode-September-Daily-Challenges-2022/blob/main/658.%20Find%20K%20Closest%20Elements.cpp">Find K Closest Elements</a>
+30. <a href="https://github.com/miraehab/-LeetCode-September-Daily-Challenges-2022/blob/main/218.%20The%20Skyline%20Problem.cpp">The Skyline Problem</a>
